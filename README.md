@@ -3,7 +3,7 @@ This repository includes data analysis done on a patient data and also linear re
 
 Tools / Technologies Used: 
 
-1-) Databricks Community Edition(for using pyspark in cloud environment)
+1-) Databricks Community Edition(for freely using pyspark in cloud environment)
 
 2-) Mockaroo (for random data generation)
 
